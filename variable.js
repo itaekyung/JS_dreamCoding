@@ -3,7 +3,7 @@
 // use this for Vanila Javascript.
 "use strict";
 
-// 2. Variable, rw(read/write) 변수
+// 2. Variable, rw(read/write) 변수, 메모리의 값을 읽고 쓰기 가능
 // let (added in ES6)
 let globalName = "global name"; //전역변수는 최소한으로 사용할 것
 {
@@ -41,6 +41,8 @@ const maxNumber = 5;
 
 // 4. Variable types
 // primitive, single item: number, string, boolean, null, undefined, symbol
+// 원시자료형
+// 참조자료형
 // object, box container
 // function, first-class function
 
